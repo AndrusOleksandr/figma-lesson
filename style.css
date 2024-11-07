@@ -1,0 +1,38 @@
+body {
+    background-color:#90E0F6;
+    max-width: 1217px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: #73B6FE;
+    border-radius: 36px;
+    width: 100%;
+    font-size: 64px;
+    border: none;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.conteiner {
+    display: flex;
+}
+
+.right {
+    max-width: 632px;
+    background-color: #D9D9D9;
+    border-radius: 31px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.KNIFE {
+    width: 86%;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
